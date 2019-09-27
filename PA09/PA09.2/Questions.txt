@@ -1,0 +1,9 @@
+Do we use Comparator comparator Data Member?
+
+What logic errors do I throw for insert() and remove()?
+
+How do I clear the last node that is moved up to the first index in the remove function?
+
+How do I compare index values?
+
+What class does get priority go in?
